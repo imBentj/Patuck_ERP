@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "/home/ben/frappe-bench/apps/frappe/frappe/desk/page/setup_wizard/setup_wizard.py", line 72, in setup_complete
+    task.get('fn')(task.get('args'))
+  File "/home/ben/frappe-bench/apps/erpnext/erpnext/setup/setup_wizard/setup_wizard.py", line 101, in setup_defaults
+    fixtures.install_defaults(frappe._dict(args))
+  File "/home/ben/frappe-bench/apps/erpnext/erpnext/setup/setup_wizard/operations/install_fixtures.py", line 434, in install_defaults
+    current_fiscal_year = frappe.get_all("Fiscal Year")[0]
+IndexError: list index out of range
+{"language": "English", "country": "India", "timezone": "Asia/Kolkata", "currency": "INR", "full_name": "Ben Thomas", "email": "imbentj15@gmail.com", "password": "@loySius2117", "domains": ["Education"], "company_name": "Patuck Junior College", "company_abbr": "PJC", "company_tagline": "Junior College", "bank_account": "Union Bank", "chart_of_accounts": "India - Chart of Accounts", "fy_start_date": "2020-03-31", "fy_end_date": "2021-04-01", "name": "imbentj15@gmail.com"}

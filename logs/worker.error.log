@@ -1,0 +1,403 @@
+18:30:13 default: Job OK (f72de6b4-857f-47a1-8c8a-b7d47873d89f)
+18:30:13 Result is kept for 500 seconds
+18:30:13 Cleaning registries for queue: default
+18:30:49 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', kwargs={'data': []}, method='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', site='sub.patuck.tech', user='Administrator') (fa7c5f61-4966-4717-b83c-f728078326a0)
+18:30:49 default: Job OK (fa7c5f61-4966-4717-b83c-f728078326a0)
+18:30:49 Result is kept for 500 seconds
+18:30:49 Cleaning registries for queue: default
+18:30:22 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', kwargs={'data': []}, method='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', site='sub.patuck.tech', user='Administrator') (29ada9e5-57b4-424f-81db-d17f8ed675bf)
+18:30:22 default: Job OK (29ada9e5-57b4-424f-81db-d17f8ed675bf)
+18:30:22 Result is kept for 500 seconds
+18:30:22 Cleaning registries for queue: default
+18:30:52 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', kwargs={'data': []}, method='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', site='sub.patuck.tech', user='Administrator') (d78cd5cf-7d83-4686-9440-9b71439ce38e)
+18:30:52 default: Job OK (d78cd5cf-7d83-4686-9440-9b71439ce38e)
+18:30:52 Result is kept for 500 seconds
+18:30:52 Cleaning registries for queue: default
+18:30:09 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', kwargs={'data': []}, method='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', site='sub.patuck.tech', user='Administrator') (de2e2fd7-e97d-4899-ab8a-bc751c62b062)
+18:30:10 default: Job OK (de2e2fd7-e97d-4899-ab8a-bc751c62b062)
+18:30:10 Result is kept for 500 seconds
+18:30:10 Cleaning registries for queue: default
+18:30:27 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', kwargs={'data': []}, method='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', site='sub.patuck.tech', user='Administrator') (87d2ca28-6c69-4897-8551-36c6496be9c8)
+18:30:27 default: Job OK (87d2ca28-6c69-4897-8551-36c6496be9c8)
+18:30:27 Result is kept for 500 seconds
+18:30:27 Cleaning registries for queue: default
+18:30:46 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', kwargs={'data': []}, method='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', site='sub.patuck.tech', user='Administrator') (064e5f58-f776-48c2-9b26-58c65f59fc91)
+18:30:46 default: Job OK (064e5f58-f776-48c2-9b26-58c65f59fc91)
+18:30:46 Result is kept for 500 seconds
+18:30:46 Cleaning registries for queue: default
+18:31:04 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', kwargs={'data': []}, method='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', site='sub.patuck.tech', user='Administrator') (62561b0b-addc-4ab3-87d6-4a103e20050b)
+18:31:04 default: Job OK (62561b0b-addc-4ab3-87d6-4a103e20050b)
+18:31:04 Result is kept for 500 seconds
+18:31:04 Cleaning registries for queue: default
+18:30:20 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', kwargs={'data': []}, method='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', site='sub.patuck.tech', user='Administrator') (10ca90bf-66af-430a-b437-79211268d042)
+18:30:20 default: Job OK (10ca90bf-66af-430a-b437-79211268d042)
+18:30:20 Result is kept for 500 seconds
+18:30:20 Cleaning registries for queue: default
+16:34:00 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Plan', 'name': 'EDU-ASP-2021-00001'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (5e9d21e2-1bd2-454d-bc92-2cde7b37510c)
+16:34:00 default: Job OK (5e9d21e2-1bd2-454d-bc92-2cde7b37510c)
+16:34:00 Result is kept for 500 seconds
+16:34:00 Cleaning registries for queue: default
+16:36:18 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Plan', 'name': 'EDU-ASP-2021-00002'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (ace9bd33-01f3-4191-b652-f26f9f9c8aaa)
+16:36:18 default: Job OK (ace9bd33-01f3-4191-b652-f26f9f9c8aaa)
+16:36:18 Result is kept for 500 seconds
+16:37:16 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Plan', 'name': 'EDU-ASP-2021-00001'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (71ab49fe-190d-44ac-8d3a-a37cd0bcac3a)
+16:37:16 default: Job OK (71ab49fe-190d-44ac-8d3a-a37cd0bcac3a)
+16:37:16 Result is kept for 500 seconds
+16:40:13 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Plan', 'name': 'EDU-ASP-2021-00001'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (e3d7ecce-291f-4ac8-95c1-82d5eac04a05)
+16:40:13 default: Job OK (e3d7ecce-291f-4ac8-95c1-82d5eac04a05)
+16:40:13 Result is kept for 500 seconds
+16:40:25 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Plan', 'name': 'EDU-ASP-2021-00002'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (ebba4ecc-a754-47f2-acad-cf6f1278511f)
+16:40:25 default: Job OK (ebba4ecc-a754-47f2-acad-cf6f1278511f)
+16:40:25 Result is kept for 500 seconds
+16:48:39 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Group', 'name': 'Internal Test - 1'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (672356d5-5c42-48e0-b0d0-e4778c3f7f3d)
+16:48:39 default: Job OK (672356d5-5c42-48e0-b0d0-e4778c3f7f3d)
+16:48:39 Result is kept for 500 seconds
+16:49:06 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Group', 'name': 'Internal Test Demo - 1'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (22a58aa9-bca8-441f-930b-cc3aeafde8e2)
+16:49:06 default: Job OK (22a58aa9-bca8-441f-930b-cc3aeafde8e2)
+16:49:06 Result is kept for 500 seconds
+16:49:10 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Group', 'name': 'Internal test 1'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (e27799f8-c96a-48da-a8d3-0fd2b3e89576)
+16:49:10 default: Job OK (e27799f8-c96a-48da-a8d3-0fd2b3e89576)
+16:49:10 Result is kept for 500 seconds
+17:26:42 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Plan', 'name': 'EDU-ASP-2021-00004'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (6c9925c5-ffe3-4f11-b471-d2880a9eeb0f)
+17:26:42 default: Job OK (6c9925c5-ffe3-4f11-b471-d2880a9eeb0f)
+17:26:42 Result is kept for 500 seconds
+17:27:12 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Plan', 'name': 'EDU-ASP-2021-00003'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (e4add134-4767-488e-8205-89ed4938a35c)
+17:27:12 default: Job OK (e4add134-4767-488e-8205-89ed4938a35c)
+17:27:12 Result is kept for 500 seconds
+17:27:51 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.desk.reportview.delete_bulk', kwargs={'doctype': 'Assessment Result', 'items': ['EDU-RES-2021-00018', 'EDU-RES-2021-00017', 'EDU-RES-2021-00016', 'EDU-RES-2021-00015', 'EDU-RES-2021-00014', 'EDU-RES-2021-00013', 'EDU-RES-2021-00012', 'EDU-RES-2021-00011', 'EDU-RES-2021-00010', 'EDU-RES-2021-00009', 'EDU-RES-2021-00008', 'EDU-RES-2021-00007', 'EDU-RES-2021-00006', 'EDU-RES-2021-00005', 'EDU-RES-2021-00004', 'EDU-RES-2021-00003', 'EDU-RES-2021-00002', 'EDU-RES-2021-00001']}, method='frappe.desk.reportview.delete_bulk', site='sub.patuck.tech', user='Administrator') (02298c9c-e47c-40e9-a6aa-c98fdec6ce03)
+17:27:51 default: Job OK (02298c9c-e47c-40e9-a6aa-c98fdec6ce03)
+17:27:51 Result is kept for 500 seconds
+17:28:01 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.desk.reportview.delete_bulk', kwargs={'doctype': 'Assessment Result', 'items': ['EDU-RES-2021-00018', 'EDU-RES-2021-00017', 'EDU-RES-2021-00016', 'EDU-RES-2021-00015', 'EDU-RES-2021-00014', 'EDU-RES-2021-00013', 'EDU-RES-2021-00012', 'EDU-RES-2021-00011', 'EDU-RES-2021-00010', 'EDU-RES-2021-00009', 'EDU-RES-2021-00008', 'EDU-RES-2021-00007', 'EDU-RES-2021-00006', 'EDU-RES-2021-00005', 'EDU-RES-2021-00004', 'EDU-RES-2021-00003', 'EDU-RES-2021-00002', 'EDU-RES-2021-00001']}, method='frappe.desk.reportview.delete_bulk', site='sub.patuck.tech', user='Administrator') (16b79ef1-dd0b-4528-b182-2adddebe74b5)
+17:28:01 default: Job OK (16b79ef1-dd0b-4528-b182-2adddebe74b5)
+17:28:01 Result is kept for 500 seconds
+17:28:19 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.desk.reportview.delete_bulk', kwargs={'doctype': 'Assessment Result', 'items': ['EDU-RES-2021-00018', 'EDU-RES-2021-00017', 'EDU-RES-2021-00016', 'EDU-RES-2021-00015', 'EDU-RES-2021-00014', 'EDU-RES-2021-00013', 'EDU-RES-2021-00012', 'EDU-RES-2021-00011', 'EDU-RES-2021-00010', 'EDU-RES-2021-00009', 'EDU-RES-2021-00008', 'EDU-RES-2021-00007', 'EDU-RES-2021-00006', 'EDU-RES-2021-00005', 'EDU-RES-2021-00004', 'EDU-RES-2021-00003', 'EDU-RES-2021-00002', 'EDU-RES-2021-00001']}, method='frappe.desk.reportview.delete_bulk', site='sub.patuck.tech', user='Administrator') (f9a1efb5-c510-40ce-a510-9b101b3bba4b)
+17:28:19 default: Job OK (f9a1efb5-c510-40ce-a510-9b101b3bba4b)
+17:28:19 Result is kept for 500 seconds
+17:28:27 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.desk.reportview.delete_bulk', kwargs={'doctype': 'Assessment Result', 'items': ['EDU-RES-2021-00018', 'EDU-RES-2021-00017', 'EDU-RES-2021-00016', 'EDU-RES-2021-00015', 'EDU-RES-2021-00014', 'EDU-RES-2021-00013', 'EDU-RES-2021-00012', 'EDU-RES-2021-00011', 'EDU-RES-2021-00010', 'EDU-RES-2021-00009', 'EDU-RES-2021-00008', 'EDU-RES-2021-00007', 'EDU-RES-2021-00006', 'EDU-RES-2021-00005', 'EDU-RES-2021-00004', 'EDU-RES-2021-00003', 'EDU-RES-2021-00002', 'EDU-RES-2021-00001']}, method='frappe.desk.reportview.delete_bulk', site='sub.patuck.tech', user='Administrator') (07e3f87b-52c0-4b1d-a1df-8b0587e049b8)
+17:28:28 default: Job OK (07e3f87b-52c0-4b1d-a1df-8b0587e049b8)
+17:28:28 Result is kept for 500 seconds
+17:28:59 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.desk.reportview.delete_bulk', kwargs={'doctype': 'Assessment Result', 'items': ['EDU-RES-2021-00018', 'EDU-RES-2021-00017', 'EDU-RES-2021-00016', 'EDU-RES-2021-00015', 'EDU-RES-2021-00014', 'EDU-RES-2021-00013', 'EDU-RES-2021-00012', 'EDU-RES-2021-00011', 'EDU-RES-2021-00010', 'EDU-RES-2021-00009', 'EDU-RES-2021-00008', 'EDU-RES-2021-00007', 'EDU-RES-2021-00006', 'EDU-RES-2021-00005', 'EDU-RES-2021-00004', 'EDU-RES-2021-00003', 'EDU-RES-2021-00002', 'EDU-RES-2021-00001']}, method='frappe.desk.reportview.delete_bulk', site='sub.patuck.tech', user='Administrator') (03e588e5-3fc7-4b4b-a909-899286a751a8)
+17:29:04 default: Job OK (03e588e5-3fc7-4b4b-a909-899286a751a8)
+17:29:04 Result is kept for 500 seconds
+17:29:04 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Result', 'name': 'EDU-RES-2021-00018'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (842ea378-0efb-43c7-82c8-d19ef2496d57)
+17:29:04 default: Job OK (842ea378-0efb-43c7-82c8-d19ef2496d57)
+17:29:04 Result is kept for 500 seconds
+17:29:04 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Result', 'name': 'EDU-RES-2021-00017'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (81b9e032-2330-453a-b3ea-2bb0d2f2be7b)
+17:29:04 default: Job OK (81b9e032-2330-453a-b3ea-2bb0d2f2be7b)
+17:29:04 Result is kept for 500 seconds
+17:29:04 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Result', 'name': 'EDU-RES-2021-00016'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (f6fa483a-ae38-44ed-84ab-721f8e6dda8b)
+17:29:04 default: Job OK (f6fa483a-ae38-44ed-84ab-721f8e6dda8b)
+17:29:04 Result is kept for 500 seconds
+17:29:04 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Result', 'name': 'EDU-RES-2021-00015'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (d3474d7e-77d2-4dc0-a107-ba657df3718d)
+17:29:04 default: Job OK (d3474d7e-77d2-4dc0-a107-ba657df3718d)
+17:29:04 Result is kept for 500 seconds
+17:29:04 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Result', 'name': 'EDU-RES-2021-00014'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (3ea1362e-2339-402c-b471-615ae3ff0d1e)
+17:29:04 default: Job OK (3ea1362e-2339-402c-b471-615ae3ff0d1e)
+17:29:04 Result is kept for 500 seconds
+17:29:04 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Result', 'name': 'EDU-RES-2021-00013'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (02951384-f1af-4e39-8785-2c1b99a7a3e9)
+17:29:04 default: Job OK (02951384-f1af-4e39-8785-2c1b99a7a3e9)
+17:29:04 Result is kept for 500 seconds
+17:29:04 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Result', 'name': 'EDU-RES-2021-00012'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (77a93ea3-5214-4908-a560-a522b6361746)
+17:29:04 default: Job OK (77a93ea3-5214-4908-a560-a522b6361746)
+17:29:04 Result is kept for 500 seconds
+17:29:04 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Result', 'name': 'EDU-RES-2021-00011'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (712c1b1a-f22b-4575-8e6e-a5df1351d4dc)
+17:29:05 default: Job OK (712c1b1a-f22b-4575-8e6e-a5df1351d4dc)
+17:29:05 Result is kept for 500 seconds
+17:29:05 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Result', 'name': 'EDU-RES-2021-00010'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (2948327c-4df0-4c3d-8faf-354251fde59a)
+17:29:05 default: Job OK (2948327c-4df0-4c3d-8faf-354251fde59a)
+17:29:05 Result is kept for 500 seconds
+17:29:05 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Result', 'name': 'EDU-RES-2021-00009'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (f363991f-189f-4667-8a19-5bca8216202e)
+17:29:05 default: Job OK (f363991f-189f-4667-8a19-5bca8216202e)
+17:29:05 Result is kept for 500 seconds
+17:29:05 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Result', 'name': 'EDU-RES-2021-00008'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (8dee98c0-1912-4dce-b4ae-ba671ff51dfe)
+17:29:05 default: Job OK (8dee98c0-1912-4dce-b4ae-ba671ff51dfe)
+17:29:05 Result is kept for 500 seconds
+17:29:05 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Result', 'name': 'EDU-RES-2021-00007'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (de540f1b-9fb0-4723-ae95-c1de1229f785)
+17:29:05 default: Job OK (de540f1b-9fb0-4723-ae95-c1de1229f785)
+17:29:05 Result is kept for 500 seconds
+17:29:05 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Result', 'name': 'EDU-RES-2021-00006'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (6f9f0a41-3884-417f-b59e-7071140c97c9)
+17:29:05 default: Job OK (6f9f0a41-3884-417f-b59e-7071140c97c9)
+17:29:05 Result is kept for 500 seconds
+17:29:05 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Result', 'name': 'EDU-RES-2021-00005'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (c1993f7f-17dd-4b5e-ae8e-3d2df878d712)
+17:29:05 default: Job OK (c1993f7f-17dd-4b5e-ae8e-3d2df878d712)
+17:29:05 Result is kept for 500 seconds
+17:29:05 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Result', 'name': 'EDU-RES-2021-00004'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (f7c7d3e8-bfdc-4a02-9d7b-06a595b59766)
+17:29:05 default: Job OK (f7c7d3e8-bfdc-4a02-9d7b-06a595b59766)
+17:29:05 Result is kept for 500 seconds
+17:29:05 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Result', 'name': 'EDU-RES-2021-00003'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (4de26b62-bc98-422a-92a6-c9e124b07f0a)
+17:29:05 default: Job OK (4de26b62-bc98-422a-92a6-c9e124b07f0a)
+17:29:05 Result is kept for 500 seconds
+17:29:05 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Result', 'name': 'EDU-RES-2021-00002'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (59912481-42a9-4244-b90d-5cd5ac567770)
+17:29:05 default: Job OK (59912481-42a9-4244-b90d-5cd5ac567770)
+17:29:05 Result is kept for 500 seconds
+17:29:05 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Result', 'name': 'EDU-RES-2021-00001'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (e2154733-ecc8-4bb7-ac86-cc6b45da7b7b)
+17:29:05 default: Job OK (e2154733-ecc8-4bb7-ac86-cc6b45da7b7b)
+17:29:05 Result is kept for 500 seconds
+17:29:53 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.desk.reportview.delete_bulk', kwargs={'doctype': 'Assessment Result', 'items': ['EDU-RES-2021-00037', 'EDU-RES-2021-00036', 'EDU-RES-2021-00035', 'EDU-RES-2021-00034', 'EDU-RES-2021-00033', 'EDU-RES-2021-00032', 'EDU-RES-2021-00031', 'EDU-RES-2021-00030', 'EDU-RES-2021-00029', 'EDU-RES-2021-00028', 'EDU-RES-2021-00027', 'EDU-RES-2021-00026', 'EDU-RES-2021-00025', 'EDU-RES-2021-00024', 'EDU-RES-2021-00023', 'EDU-RES-2021-00022', 'EDU-RES-2021-00021', 'EDU-RES-2021-00020', 'EDU-RES-2021-00019']}, method='frappe.desk.reportview.delete_bulk', site='sub.patuck.tech', user='Administrator') (140392a6-7adc-4068-afe1-af36ceec0757)
+17:29:57 default: Job OK (140392a6-7adc-4068-afe1-af36ceec0757)
+17:29:57 Result is kept for 500 seconds
+17:29:57 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Result', 'name': 'EDU-RES-2021-00037'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (243b6ada-7f0c-42ee-b02c-e8bc34d57ebd)
+17:29:57 default: Job OK (243b6ada-7f0c-42ee-b02c-e8bc34d57ebd)
+17:29:57 Result is kept for 500 seconds
+17:29:57 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Result', 'name': 'EDU-RES-2021-00036'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (428d1cee-121b-4330-9878-67c1ff6085cd)
+17:29:57 default: Job OK (428d1cee-121b-4330-9878-67c1ff6085cd)
+17:29:57 Result is kept for 500 seconds
+17:29:57 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Result', 'name': 'EDU-RES-2021-00035'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (9f327a6b-6de4-43e1-b674-91cf344685b0)
+17:29:57 default: Job OK (9f327a6b-6de4-43e1-b674-91cf344685b0)
+17:29:57 Result is kept for 500 seconds
+17:29:57 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Result', 'name': 'EDU-RES-2021-00034'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (e73f6c36-f64a-4cc6-b29f-86cda0ca3dea)
+17:29:57 default: Job OK (e73f6c36-f64a-4cc6-b29f-86cda0ca3dea)
+17:29:57 Result is kept for 500 seconds
+17:29:57 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Result', 'name': 'EDU-RES-2021-00033'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (4100e87a-6fc7-4b4f-abed-172b27b6caeb)
+17:29:58 default: Job OK (4100e87a-6fc7-4b4f-abed-172b27b6caeb)
+17:29:58 Result is kept for 500 seconds
+17:29:58 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Result', 'name': 'EDU-RES-2021-00032'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (8e51fca4-7110-4537-83c8-69aa74c50bfe)
+17:29:58 default: Job OK (8e51fca4-7110-4537-83c8-69aa74c50bfe)
+17:29:58 Result is kept for 500 seconds
+17:29:58 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Result', 'name': 'EDU-RES-2021-00031'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (7a357748-ad67-4537-bd91-3c2779342281)
+17:29:58 default: Job OK (7a357748-ad67-4537-bd91-3c2779342281)
+17:29:58 Result is kept for 500 seconds
+17:29:58 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Result', 'name': 'EDU-RES-2021-00030'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (3e7a5809-4fb5-449b-9b60-0094b129c27d)
+17:29:58 default: Job OK (3e7a5809-4fb5-449b-9b60-0094b129c27d)
+17:29:58 Result is kept for 500 seconds
+17:29:58 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Result', 'name': 'EDU-RES-2021-00029'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (16113fd2-377d-4ec2-9dd0-395339b32896)
+17:29:58 default: Job OK (16113fd2-377d-4ec2-9dd0-395339b32896)
+17:29:58 Result is kept for 500 seconds
+17:29:58 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Result', 'name': 'EDU-RES-2021-00028'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (ca61b22a-3bcd-43a6-bb00-8a2c432fd25a)
+17:29:58 default: Job OK (ca61b22a-3bcd-43a6-bb00-8a2c432fd25a)
+17:29:58 Result is kept for 500 seconds
+17:29:58 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Result', 'name': 'EDU-RES-2021-00027'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (aea5afd2-0339-4ce5-9a5e-3e893d555696)
+17:29:58 default: Job OK (aea5afd2-0339-4ce5-9a5e-3e893d555696)
+17:29:58 Result is kept for 500 seconds
+17:29:58 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Result', 'name': 'EDU-RES-2021-00026'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (ce2d3c57-98de-401b-936c-982b880578bd)
+17:29:58 default: Job OK (ce2d3c57-98de-401b-936c-982b880578bd)
+17:29:58 Result is kept for 500 seconds
+17:29:58 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Result', 'name': 'EDU-RES-2021-00025'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (daa8fe6c-8fd3-4532-beb6-dabcdb7a7a1b)
+17:29:59 default: Job OK (daa8fe6c-8fd3-4532-beb6-dabcdb7a7a1b)
+17:29:59 Result is kept for 500 seconds
+17:29:59 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Result', 'name': 'EDU-RES-2021-00024'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (2cfcd8d1-6f71-4013-b25f-389e9f44c397)
+17:29:59 default: Job OK (2cfcd8d1-6f71-4013-b25f-389e9f44c397)
+17:29:59 Result is kept for 500 seconds
+17:29:59 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Result', 'name': 'EDU-RES-2021-00023'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (0ee6c83b-07e4-471c-9c32-832a0182f34a)
+17:29:59 default: Job OK (0ee6c83b-07e4-471c-9c32-832a0182f34a)
+17:29:59 Result is kept for 500 seconds
+17:29:59 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Result', 'name': 'EDU-RES-2021-00022'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (5ca1210f-eeee-49d7-9973-1e23a48fdc5f)
+17:29:59 default: Job OK (5ca1210f-eeee-49d7-9973-1e23a48fdc5f)
+17:29:59 Result is kept for 500 seconds
+17:29:59 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Result', 'name': 'EDU-RES-2021-00021'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (4fd55256-747a-4459-9865-c343493225be)
+17:29:59 default: Job OK (4fd55256-747a-4459-9865-c343493225be)
+17:29:59 Result is kept for 500 seconds
+17:29:59 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Result', 'name': 'EDU-RES-2021-00020'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (f150fcd1-d13d-46d8-9f87-8dc285afa00d)
+17:29:59 default: Job OK (f150fcd1-d13d-46d8-9f87-8dc285afa00d)
+17:29:59 Result is kept for 500 seconds
+17:29:59 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Result', 'name': 'EDU-RES-2021-00019'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (74b49ac1-9fbc-4585-9ca5-271f4500fe1c)
+17:29:59 default: Job OK (74b49ac1-9fbc-4585-9ca5-271f4500fe1c)
+17:29:59 Result is kept for 500 seconds
+17:30:53 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Plan', 'name': 'EDU-ASP-2021-00007'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (d1f643ec-7a0d-48e5-96e2-245c3371c52a)
+17:30:54 default: Job OK (d1f643ec-7a0d-48e5-96e2-245c3371c52a)
+17:30:54 Result is kept for 500 seconds
+17:30:54 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Plan', 'name': 'EDU-ASP-2021-00006'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (565b32c7-b238-4df1-94d0-0210fa531bac)
+17:30:54 default: Job OK (565b32c7-b238-4df1-94d0-0210fa531bac)
+17:30:54 Result is kept for 500 seconds
+17:30:54 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Plan', 'name': 'EDU-ASP-2021-00005'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (76b49c8c-bdfe-47cf-8abf-3c5d8f5b0090)
+17:30:54 default: Job OK (76b49c8c-bdfe-47cf-8abf-3c5d8f5b0090)
+17:30:54 Result is kept for 500 seconds
+17:30:54 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Plan', 'name': 'EDU-ASP-2021-00002'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (5e3e002b-5dcd-4049-bcba-e450b4d209f1)
+17:30:54 default: Job OK (5e3e002b-5dcd-4049-bcba-e450b4d209f1)
+17:30:54 Result is kept for 500 seconds
+17:31:07 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Group', 'name': 'Unit Test - 1'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (5a8c4d92-c76a-4956-9611-b57b6c9c62d2)
+17:31:07 default: Job OK (5a8c4d92-c76a-4956-9611-b57b6c9c62d2)
+17:31:07 Result is kept for 500 seconds
+17:31:19 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Assessment Group', 'name': 'Unit Test - 2'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (c196c369-ac71-4810-a510-c520efa036d3)
+17:31:19 default: Job OK (c196c369-ac71-4810-a510-c520efa036d3)
+17:31:19 Result is kept for 500 seconds
+17:32:57 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'Assessment Group'}, method='frappe.utils.global_search.rebuild_for_doctype', site='sub.patuck.tech', user='Administrator') (aaf15faa-ee23-41d4-91df-cf56575fbaaa)
+17:32:57 default: Job OK (aaf15faa-ee23-41d4-91df-cf56575fbaaa)
+17:32:57 Result is kept for 500 seconds
+17:33:10 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'Assessment Group'}, method='frappe.utils.global_search.rebuild_for_doctype', site='sub.patuck.tech', user='Administrator') (454ef05a-cf3d-4bff-b872-31703d961fb9)
+17:33:11 default: Job OK (454ef05a-cf3d-4bff-b872-31703d961fb9)
+17:33:11 Result is kept for 500 seconds
+17:46:34 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'Dashboard Chart'}, method='frappe.utils.global_search.rebuild_for_doctype', site='sub.patuck.tech', user='Administrator') (09f7c075-3629-41bd-a3c7-435fd965a414)
+17:46:34 default: Job OK (09f7c075-3629-41bd-a3c7-435fd965a414)
+17:46:34 Result is kept for 500 seconds
+17:46:34 Cleaning registries for queue: default
+17:56:41 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Dashboard Chart', 'name': 'Assessment Result'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (a568e7cb-3143-4d81-bb12-77cd2fdea236)
+17:56:41 default: Job OK (a568e7cb-3143-4d81-bb12-77cd2fdea236)
+17:56:41 Result is kept for 500 seconds
+18:30:44 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', kwargs={'data': []}, method='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', site='sub.patuck.tech', user='Administrator') (cbb35fcf-7487-4296-9147-be72331b73dc)
+18:30:44 default: Job OK (cbb35fcf-7487-4296-9147-be72331b73dc)
+18:30:44 Result is kept for 500 seconds
+18:30:09 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', kwargs={'data': []}, method='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', site='sub.patuck.tech', user='Administrator') (bec89222-b124-4ac6-b7b8-0f81126a2f2a)
+18:30:09 default: Job OK (bec89222-b124-4ac6-b7b8-0f81126a2f2a)
+18:30:09 Result is kept for 500 seconds
+18:30:09 Cleaning registries for queue: default
+18:30:33 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', kwargs={'data': []}, method='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', site='sub.patuck.tech', user='Administrator') (23f93421-8554-4050-beb1-52793928eda0)
+18:30:33 default: Job OK (23f93421-8554-4050-beb1-52793928eda0)
+18:30:33 Result is kept for 500 seconds
+18:30:33 Cleaning registries for queue: default
+18:31:04 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', kwargs={'data': []}, method='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', site='sub.patuck.tech', user='Administrator') (6f3c327c-d82a-432f-80ba-2f20fefcd9d8)
+18:31:04 default: Job OK (6f3c327c-d82a-432f-80ba-2f20fefcd9d8)
+18:31:04 Result is kept for 500 seconds
+18:31:04 Cleaning registries for queue: default
+18:15:38 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.update_gravatar', kwargs={'name': 'imbentj15@gmail.com'}, method='frappe.core.doctype.user.user.update_gravatar', site='sub.patuck.tech', user='Administrator') (92f880df-29f3-49e9-96b4-599a081a6f46)
+18:15:39 default: Job OK (92f880df-29f3-49e9-96b4-599a081a6f46)
+18:15:39 Result is kept for 500 seconds
+18:15:39 Cleaning registries for queue: default
+18:30:35 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', kwargs={'data': []}, method='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', site='sub.patuck.tech', user='Administrator') (a088a6ad-4862-416c-aaf1-cb84757945d3)
+18:30:35 default: Job OK (a088a6ad-4862-416c-aaf1-cb84757945d3)
+18:30:35 Result is kept for 500 seconds
+13:53:17 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.update_gravatar', kwargs={'name': 'imbentj15@gmail.com'}, method='frappe.core.doctype.user.user.update_gravatar', site='sub.patuck.tech', user='Administrator') (ee6c5d22-3105-4035-844b-ab35b05a76d1)
+13:53:18 default: Job OK (ee6c5d22-3105-4035-844b-ab35b05a76d1)
+13:53:18 Result is kept for 500 seconds
+13:53:18 Cleaning registries for queue: default
+13:55:03 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'DocShare', 'name': '435f5a5d93'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (9deb9c89-d781-455b-bbee-0130a7ed0613)
+13:55:03 default: Job OK (9deb9c89-d781-455b-bbee-0130a7ed0613)
+13:55:03 Result is kept for 500 seconds
+13:55:03 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.update_gravatar', kwargs={'name': 'imbentj15@gmail.com'}, method='frappe.core.doctype.user.user.update_gravatar', site='sub.patuck.tech', user='Administrator') (33c13712-07ef-4c81-9db4-30217577c661)
+13:55:04 default: Job OK (33c13712-07ef-4c81-9db4-30217577c661)
+13:55:04 Result is kept for 500 seconds
+13:55:37 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.update_gravatar', kwargs={'name': 'imbentj15@gmail.com'}, method='frappe.core.doctype.user.user.update_gravatar', site='sub.patuck.tech', user='Administrator') (19336392-e508-4fc8-ae46-1089ba959b4b)
+13:55:38 default: Job OK (19336392-e508-4fc8-ae46-1089ba959b4b)
+13:55:38 Result is kept for 500 seconds
+13:56:08 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.update_gravatar', kwargs={'name': 'imbentj15@gmail.com'}, method='frappe.core.doctype.user.user.update_gravatar', site='sub.patuck.tech', user='Administrator') (ecff4b66-ef31-4b57-96a4-622e77af75a9)
+13:56:08 default: Job OK (ecff4b66-ef31-4b57-96a4-622e77af75a9)
+13:56:08 Result is kept for 500 seconds
+18:30:18 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', kwargs={'data': []}, method='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', site='sub.patuck.tech', user='Administrator') (ec807a98-1c35-4891-8b9b-64bc8a6c3d6a)
+18:30:18 default: Job OK (ec807a98-1c35-4891-8b9b-64bc8a6c3d6a)
+18:30:18 Result is kept for 500 seconds
+18:30:18 Cleaning registries for queue: default
+18:30:48 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', kwargs={'data': []}, method='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', site='sub.patuck.tech', user='Administrator') (69d8dd9f-d400-44ec-92e5-36858815183e)
+18:30:49 default: Job OK (69d8dd9f-d400-44ec-92e5-36858815183e)
+18:30:49 Result is kept for 500 seconds
+18:30:49 Cleaning registries for queue: default
+18:30:20 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', kwargs={'data': []}, method='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', site='sub.patuck.tech', user='Administrator') (5d501a88-c287-4010-81cb-a9ade89582ab)
+18:30:20 default: Job OK (5d501a88-c287-4010-81cb-a9ade89582ab)
+18:30:20 Result is kept for 500 seconds
+18:30:20 Cleaning registries for queue: default
+16:15:21 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'Course'}, method='frappe.utils.global_search.rebuild_for_doctype', site='sub.patuck.tech', user='Administrator') (767927c2-14a1-4e0f-8a9b-008bf0c77c34)
+16:15:22 default: Job OK (767927c2-14a1-4e0f-8a9b-008bf0c77c34)
+16:15:22 Result is kept for 500 seconds
+16:15:22 Cleaning registries for queue: default
+16:16:27 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'Course'}, method='frappe.utils.global_search.rebuild_for_doctype', site='sub.patuck.tech', user='Administrator') (9d6d59ec-6d40-46c6-ad61-277477cd4b48)
+16:16:27 default: Job OK (9d6d59ec-6d40-46c6-ad61-277477cd4b48)
+16:16:27 Result is kept for 500 seconds
+16:16:51 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'Course'}, method='frappe.utils.global_search.rebuild_for_doctype', site='sub.patuck.tech', user='Administrator') (497852a1-3f3f-496c-88fe-f052933fc0ee)
+16:16:51 default: Job OK (497852a1-3f3f-496c-88fe-f052933fc0ee)
+16:16:51 Result is kept for 500 seconds
+16:16:56 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'Course'}, method='frappe.utils.global_search.rebuild_for_doctype', site='sub.patuck.tech', user='Administrator') (c4da35c9-3a51-4e69-8828-c78b91bc7149)
+16:16:57 default: Job OK (c4da35c9-3a51-4e69-8828-c78b91bc7149)
+16:16:57 Result is kept for 500 seconds
+16:17:01 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'Course'}, method='frappe.utils.global_search.rebuild_for_doctype', site='sub.patuck.tech', user='Administrator') (2fa269ed-f049-4992-9538-a5b1223f3eb3)
+16:17:01 default: Job OK (2fa269ed-f049-4992-9538-a5b1223f3eb3)
+16:17:01 Result is kept for 500 seconds
+16:17:05 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'Course'}, method='frappe.utils.global_search.rebuild_for_doctype', site='sub.patuck.tech', user='Administrator') (fc56feec-498c-40df-a29d-5834a652595e)
+16:17:06 default: Job OK (fc56feec-498c-40df-a29d-5834a652595e)
+16:17:06 Result is kept for 500 seconds
+16:17:11 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'Course'}, method='frappe.utils.global_search.rebuild_for_doctype', site='sub.patuck.tech', user='Administrator') (3b6d367b-bd37-4b70-a486-f1129e6cada6)
+16:17:12 default: Job OK (3b6d367b-bd37-4b70-a486-f1129e6cada6)
+16:17:12 Result is kept for 500 seconds
+16:17:15 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'Course'}, method='frappe.utils.global_search.rebuild_for_doctype', site='sub.patuck.tech', user='Administrator') (a3f10e60-2ff7-4603-a809-cb8599774971)
+16:17:16 default: Job OK (a3f10e60-2ff7-4603-a809-cb8599774971)
+16:17:16 Result is kept for 500 seconds
+16:17:19 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'Course'}, method='frappe.utils.global_search.rebuild_for_doctype', site='sub.patuck.tech', user='Administrator') (7768d906-866a-49f4-97a5-939080e40bd7)
+16:17:20 default: Job OK (7768d906-866a-49f4-97a5-939080e40bd7)
+16:17:20 Result is kept for 500 seconds
+16:17:26 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'Course'}, method='frappe.utils.global_search.rebuild_for_doctype', site='sub.patuck.tech', user='Administrator') (a4b136f9-dbcb-44d8-9bf5-b826b85255bf)
+16:17:27 default: Job OK (a4b136f9-dbcb-44d8-9bf5-b826b85255bf)
+16:17:27 Result is kept for 500 seconds
+16:17:31 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'Course'}, method='frappe.utils.global_search.rebuild_for_doctype', site='sub.patuck.tech', user='Administrator') (964519e3-463c-4421-a470-db02db4537cf)
+16:17:32 default: Job OK (964519e3-463c-4421-a470-db02db4537cf)
+16:17:32 Result is kept for 500 seconds
+16:17:35 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'Course'}, method='frappe.utils.global_search.rebuild_for_doctype', site='sub.patuck.tech', user='Administrator') (928cf495-1dbe-4f5f-a337-ea93e4bdd569)
+16:17:36 default: Job OK (928cf495-1dbe-4f5f-a337-ea93e4bdd569)
+16:17:36 Result is kept for 500 seconds
+16:17:39 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'Course'}, method='frappe.utils.global_search.rebuild_for_doctype', site='sub.patuck.tech', user='Administrator') (bce905fa-f098-4bde-bb26-453b36a43628)
+16:17:40 default: Job OK (bce905fa-f098-4bde-bb26-453b36a43628)
+16:17:40 Result is kept for 500 seconds
+16:17:43 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'Course'}, method='frappe.utils.global_search.rebuild_for_doctype', site='sub.patuck.tech', user='Administrator') (727e54c9-8cb0-4f89-876a-2a0af81979a4)
+16:17:44 default: Job OK (727e54c9-8cb0-4f89-876a-2a0af81979a4)
+16:17:44 Result is kept for 500 seconds
+16:18:47 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'Course'}, method='frappe.utils.global_search.rebuild_for_doctype', site='sub.patuck.tech', user='Administrator') (4141a224-e69f-411a-8ae2-20bca8dc0edd)
+16:18:47 default: Job OK (4141a224-e69f-411a-8ae2-20bca8dc0edd)
+16:18:47 Result is kept for 500 seconds
+16:18:51 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'Course'}, method='frappe.utils.global_search.rebuild_for_doctype', site='sub.patuck.tech', user='Administrator') (461b2846-2f96-47fa-a4e4-66a6f9cc308e)
+16:18:52 default: Job OK (461b2846-2f96-47fa-a4e4-66a6f9cc308e)
+16:18:52 Result is kept for 500 seconds
+16:18:55 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'Course'}, method='frappe.utils.global_search.rebuild_for_doctype', site='sub.patuck.tech', user='Administrator') (02303a92-9b65-4cb0-84bc-25ed447d8e68)
+16:18:55 default: Job OK (02303a92-9b65-4cb0-84bc-25ed447d8e68)
+16:18:55 Result is kept for 500 seconds
+16:18:59 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'Course'}, method='frappe.utils.global_search.rebuild_for_doctype', site='sub.patuck.tech', user='Administrator') (8ac26d8a-5d94-4617-81ea-189783cad8bb)
+16:18:59 default: Job OK (8ac26d8a-5d94-4617-81ea-189783cad8bb)
+16:18:59 Result is kept for 500 seconds
+16:19:03 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'Course'}, method='frappe.utils.global_search.rebuild_for_doctype', site='sub.patuck.tech', user='Administrator') (b5461e2a-4ba6-4508-9d4c-2cadf4c1ebb9)
+16:19:04 default: Job OK (b5461e2a-4ba6-4508-9d4c-2cadf4c1ebb9)
+16:19:04 Result is kept for 500 seconds
+16:19:07 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'Course'}, method='frappe.utils.global_search.rebuild_for_doctype', site='sub.patuck.tech', user='Administrator') (6a2b5653-4f52-42a2-8211-fee4b1887fb0)
+16:19:08 default: Job OK (6a2b5653-4f52-42a2-8211-fee4b1887fb0)
+16:19:08 Result is kept for 500 seconds
+16:19:14 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'Course'}, method='frappe.utils.global_search.rebuild_for_doctype', site='sub.patuck.tech', user='Administrator') (7304f1e6-13c7-44f7-b828-f0ac94d39fa0)
+16:19:14 default: Job OK (7304f1e6-13c7-44f7-b828-f0ac94d39fa0)
+16:19:14 Result is kept for 500 seconds
+16:19:21 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'Course'}, method='frappe.utils.global_search.rebuild_for_doctype', site='sub.patuck.tech', user='Administrator') (9e10ef95-5c1c-47af-8642-0d21606e55d7)
+16:19:21 default: Job OK (9e10ef95-5c1c-47af-8642-0d21606e55d7)
+16:19:21 Result is kept for 500 seconds
+16:19:25 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'Course'}, method='frappe.utils.global_search.rebuild_for_doctype', site='sub.patuck.tech', user='Administrator') (55bb8993-6a3c-435e-b9c6-d9a682b49c98)
+16:19:26 default: Job OK (55bb8993-6a3c-435e-b9c6-d9a682b49c98)
+16:19:26 Result is kept for 500 seconds
+16:19:31 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'Course'}, method='frappe.utils.global_search.rebuild_for_doctype', site='sub.patuck.tech', user='Administrator') (353909ee-626d-4cd9-8574-ec89cf760dfa)
+16:19:31 default: Job OK (353909ee-626d-4cd9-8574-ec89cf760dfa)
+16:19:31 Result is kept for 500 seconds
+18:30:53 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', kwargs={'data': []}, method='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', site='sub.patuck.tech', user='Administrator') (b647326a-7966-416b-a5c0-2f18b55f0836)
+18:30:54 default: Job OK (b647326a-7966-416b-a5c0-2f18b55f0836)
+18:30:54 Result is kept for 500 seconds
+18:30:54 Cleaning registries for queue: default
+18:30:25 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', kwargs={'data': []}, method='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', site='sub.patuck.tech', user='Administrator') (27e370ca-15f3-4822-8d2d-82ccbd191284)
+18:30:25 default: Job OK (27e370ca-15f3-4822-8d2d-82ccbd191284)
+18:30:25 Result is kept for 500 seconds
+18:30:25 Cleaning registries for queue: default
+18:30:57 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', kwargs={'data': []}, method='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', site='sub.patuck.tech', user='Administrator') (6cd1c6fc-f5e2-4bb8-84f7-2515f1e6cfb1)
+18:30:58 default: Job OK (6cd1c6fc-f5e2-4bb8-84f7-2515f1e6cfb1)
+18:30:58 Result is kept for 500 seconds
+18:30:58 Cleaning registries for queue: default
+16:39:53 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.update_gravatar', kwargs={'name': 'abhyudaysuresh@gmail.com'}, method='frappe.core.doctype.user.user.update_gravatar', site='sub.patuck.tech', user='Administrator') (08e334df-eecf-47a0-8fad-b0542d4b466b)
+16:39:53 default: Job OK (08e334df-eecf-47a0-8fad-b0542d4b466b)
+16:39:53 Result is kept for 500 seconds
+16:39:53 Cleaning registries for queue: default
+16:40:28 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Notification Settings', 'name': 'abhyudaysuresh@gmail.com'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (d73b763e-5b50-435e-96c0-4282c7631368)
+16:40:28 default: Job OK (d73b763e-5b50-435e-96c0-4282c7631368)
+16:40:28 Result is kept for 500 seconds
+16:40:29 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'User', 'name': 'abhyudaysuresh@gmail.com'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (16619c13-c02b-497a-81c9-00c2f512b425)
+16:40:29 default: Job OK (16619c13-c02b-497a-81c9-00c2f512b425)
+16:40:29 Result is kept for 500 seconds
+16:41:19 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.update_gravatar', kwargs={'name': 'abhyudaysuresh@gmail.com'}, method='frappe.core.doctype.user.user.update_gravatar', site='sub.patuck.tech', user='Administrator') (54c1ccaf-4286-43d9-9d26-c66942b31da7)
+16:41:20 default: Job OK (54c1ccaf-4286-43d9-9d26-c66942b31da7)
+16:41:20 Result is kept for 500 seconds
+18:30:29 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', kwargs={'data': []}, method='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', site='sub.patuck.tech', user='Administrator') (a5b4989e-d442-4d94-b869-7a715e269509)
+18:30:29 default: Job OK (a5b4989e-d442-4d94-b869-7a715e269509)
+18:30:29 Result is kept for 500 seconds
+18:30:29 Cleaning registries for queue: default
+14:34:54 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Email Account', 'name': 'Replies'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (5302d832-eef0-40fe-975a-b111a28242a6)
+14:34:54 default: Job OK (5302d832-eef0-40fe-975a-b111a28242a6)
+14:34:54 Result is kept for 500 seconds
+14:34:54 Cleaning registries for queue: default
+14:35:05 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Email Account', 'name': 'Notifications'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (101c0782-801e-4972-9178-0f384dae9f3f)
+14:35:05 default: Job OK (101c0782-801e-4972-9178-0f384dae9f3f)
+14:35:05 Result is kept for 500 seconds
+18:30:59 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', kwargs={'data': []}, method='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', site='sub.patuck.tech', user='Administrator') (83427aa6-ebac-45e3-99d3-2db6c1a8f6c9)
+18:30:59 default: Job OK (83427aa6-ebac-45e3-99d3-2db6c1a8f6c9)
+18:30:59 Result is kept for 500 seconds
+18:30:59 Cleaning registries for queue: default
+16:09:14 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Student Leave Application', 'name': 'EDU-SLA-2021-00003'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (70ae2e5d-8d29-4bb2-ae62-216c6e378c77)
+16:09:14 default: Job OK (70ae2e5d-8d29-4bb2-ae62-216c6e378c77)
+16:09:14 Result is kept for 500 seconds
+16:09:14 Cleaning registries for queue: default
+16:09:14 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Student Leave Application', 'name': 'EDU-SLA-2021-00002'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (cf690cce-9417-458b-af8f-818d64f39ab7)
+16:09:14 default: Job OK (cf690cce-9417-458b-af8f-818d64f39ab7)
+16:09:14 Result is kept for 500 seconds
+16:09:14 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Student Leave Application', 'name': 'EDU-SLA-2021-00001'}, method='frappe.model.delete_doc.delete_dynamic_links', site='sub.patuck.tech', user='Administrator') (88496456-a145-4ff3-8e78-e04cca3812ca)
+16:09:14 default: Job OK (88496456-a145-4ff3-8e78-e04cca3812ca)
+16:09:14 Result is kept for 500 seconds
+18:30:32 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', kwargs={'data': []}, method='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', site='sub.patuck.tech', user='Administrator') (55f652f2-b4c3-4776-9fe1-bcd48803a273)
+18:30:33 default: Job OK (55f652f2-b4c3-4776-9fe1-bcd48803a273)
+18:30:33 Result is kept for 500 seconds
+18:30:33 Cleaning registries for queue: default
